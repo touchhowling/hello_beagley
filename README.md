@@ -100,7 +100,3 @@ make -s -C j722s-evm/c75ss1-0_freertos/ti-c7000
 - Consult the documentation provided with the tools for troubleshooting.
 - Adjust paths and filenames based on your actual installation and versions.
 
-For further assistance, please refer to the documentation for SysConfig, Processor SDK, and C7000 Compiler, or seek support from the respective forums.
-```
-
-This `README.md` file provides a step-by-step guide for setting up the environment, configuring SysConfig, building the project, and testing it on the BeagleBoard. Adjust the paths, versions, and filenames as needed to match your setup.
